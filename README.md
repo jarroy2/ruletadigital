@@ -1,4 +1,4 @@
-# ruletadigital
+# Ruleta Digital
 12318 Digital Roulette
 
 John is developing a videogame that allows players to bet in a wall roulette. Players may bet for integer
